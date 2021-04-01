@@ -22,7 +22,33 @@
 .contents-container {
     display:flex;
     border:red 10px solid;
+    height:100vh;
+    align-items: flex-end;
+    
 }
+
+.box {
+    width: 33.333%;
+}
+
+.box2{
+    padding-bottom:200px
+}
+
+.box4{
+    padding-bottom: 150px;
+}
+
+.box6{
+    padding-bottom: 100px;
+}
+
+.box8{
+    padding-bottom: 50px;
+}
+    
+ 
+
 
     
     
