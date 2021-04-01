@@ -20,5 +20,10 @@
 .box8{background-color: gray;}
 
 .contents-container {
-    
+    display:flex;
+    border:red 10px solid;
 }
+
+    
+    
+    
